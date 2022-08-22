@@ -1,0 +1,42 @@
+* {
+    background-color: whitesmoke;
+}
+.title {
+    background-color: cornflowerblue;
+    color: maroon;
+    text-align: center;
+    font-family: "Times New Roman", Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+}
+    img {
+        height: 300px;
+        width: auto
+    }
+.recipe {
+    background-color: maroon;
+    color: cornflowerblue;
+    text-align: center;
+}
+.title.subhead {
+font-size: 24px;
+color: orangered;
+
+}
+ul, ol {
+    background-color: maroon;
+    text-align: center;
+}
+ul li {
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+.title.subheadtwo {
+    font-size: 24px;
+    color: darkorchid;
+    
+}
+ol li {
+    background-color: darkorchid;
+    text-align: center;
+}
